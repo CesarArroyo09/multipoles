@@ -1,0 +1,57 @@
+# Error and log files
+outs/
+
+# CUTE files
+*.xi
+
+# Emacs
+*~
+*#
+
+#wolfram_mathematica
+*.nb
+
+#tar&zips
+*.tar.gz
+
+#Images
+*.jpeg
+*.jpg
+*.png
+
+#Data files
+*.dat
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.x
+
+# Debug files
+*.dSYM/
