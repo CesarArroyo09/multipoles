@@ -3,6 +3,8 @@ outs/
 
 # CUTE files
 *.xi
+*.rdz
+*.rdzw
 
 # Emacs
 *~
